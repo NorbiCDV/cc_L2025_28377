@@ -1,0 +1,6 @@
+@CDV.PeopleApi_HostAddress = http://localhost:5223
+
+GET {{CDV.PeopleApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
